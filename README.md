@@ -1,10 +1,11 @@
 # snkrt
 
 ## Structure ##
-
-+-- docs
+```
++-- docs                        Documents
 |   +-- problem
-|       +-- ORChallenge.pdf         Description of problem
-|   +-- reference                   Reference papers
-+-- src                             Source code
+|       +-- ORChallenge.pdf     Statement of problem
+|   +-- reference               Papers
++-- src                         Code
 +-- readme.md
+```
