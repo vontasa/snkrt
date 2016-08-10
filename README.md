@@ -2,10 +2,10 @@
 
 ## Structure ##
 ```
-+-- docs                        Documents
++-- docs                        # Documents
 |   +-- problem
-|       +-- ORChallenge.pdf     Statement of problem
-|   +-- reference               Papers
-+-- src                         Code
+|       +-- ORChallenge.pdf     # Statement of problem
+|   +-- reference               # Papers
++-- src                         # Code
 +-- readme.md
 ```
